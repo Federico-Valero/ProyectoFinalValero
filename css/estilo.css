@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+main{
+    display: flex;
+    justify-content: space-evenly;
+}
+h1{
+    color: blueviolet;
+}
+.btn-mostrar{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+.btn-agregar{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+.btn-borrar{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}

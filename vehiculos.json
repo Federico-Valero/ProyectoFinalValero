@@ -1,0 +1,22 @@
+[
+        {
+            "marca":"Ford",
+            "modelo":"Focus",
+            "unidades":5
+        },
+        {
+            "marca":"Ford",
+            "modelo":"Ranger",
+            "unidades":3
+        },
+        {
+            "marca":"Ford",
+            "modelo":"Ka",
+            "unidades":6
+        },
+        {
+            "marca":"Ford",
+            "modelo":"EcoSport",
+            "unidades":4
+        }
+]
